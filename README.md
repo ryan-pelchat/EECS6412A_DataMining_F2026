@@ -20,3 +20,9 @@ are due on **November 2**.
 This report and the code will be worth 10% of your final grade for the course.
 
 
+
+- An article about Hallucination types (Detecting LLM Hallucinations: Strategies and Overview)
+
+- Paper we can replicate "AlignScore:Evaluating Factual consistency with a unified alignment function"
+
+
