@@ -21,8 +21,10 @@ This report and the code will be worth 10% of your final grade for the course.
 
 
 
+Useful resources:
 - An article about Hallucination types (Detecting LLM Hallucinations: Strategies and Overview)
 
 - Paper we can replicate "AlignScore:Evaluating Factual consistency with a unified alignment function"
+      - https://arxiv.org/abs/2305.16739
 
 
