@@ -25,10 +25,12 @@ Useful resources:
 - An article about Hallucination types (Detecting LLM Hallucinations: Strategies and Overview):
           https://medium.com/@techsachin/detecting-llm-hallucinations-strategies-and-overview-57eea69e6a07
 
-- Paper we can replicate "AlignScore:Evaluating Factual consistency with a unified alignment function"
+- Paper we can replicate "AlignScore:Evaluating Factual consistency with a unified alignment function": was published in the ACL conference
       - https://arxiv.org/abs/2305.16739
+      - Tried to test this out with a sample of 50 training and 50 test dataset: the github and everything works and was able to get initial results
 
 - A survey paper on hallucinations we can use for citations an all: it is also cited in the article.
-    - https://arxiv.org/abs/2311.05232
+    - https://arxiv.org/abs/2311.05232. 
 
+- A PAPER ON SELF-CHECK GPT (https://arxiv.org/abs/2303.08896): was published in ACL conference
 
